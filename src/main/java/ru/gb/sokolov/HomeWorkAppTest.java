@@ -1,6 +1,6 @@
 package ru.gb.sokolov;
 
-public class HomeWorkApp {
+public class HomeWorkAppTest {
     public static void main(String[] args) {
         printThreeWords();
     }
