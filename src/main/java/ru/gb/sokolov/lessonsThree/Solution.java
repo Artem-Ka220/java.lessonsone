@@ -15,5 +15,11 @@ public class Solution {
             }
         }
         System.out.println(Arrays.toString(arrays));
+
+        int [] arr = new int[100];
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = i;
+        }
+        System.out.println(Arrays.toString(arr));
     }
 }
