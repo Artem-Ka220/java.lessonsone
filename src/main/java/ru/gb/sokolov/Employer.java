@@ -1,10 +1,10 @@
 package ru.gb.sokolov;
 
 public class Employer {
-    String name;
-    String position;
-    String email;
-    int numberPhone;
+    private String name;
+    private String position;
+    private String email;
+    private int numberPhone;
     private int salary;
     private int age;
 
